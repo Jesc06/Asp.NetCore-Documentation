@@ -10,10 +10,13 @@ each one a step forward in mastering modern .NET development!
 > **Ep1: [MVC Project Setup](https://github.com/Jesc06/ASP.NET-Core-Empty-MVC-set-up.git)**  
 Kick things off by learning how to set up a clean, empty ASP.NET Core MVC project. *Start fresh, code clean.*
 
-> **Ep2: [Bootstrap Configuration in VS 2022](https://github.com/Jesc06/Local-Bootstrap-Set-up-in-Visual-Studio-2022.git)**  
+> **Ep2: [Web API Project Setup](https://github.com/Jesc06/Web-API-Project-Setup.git)**  
+Web API program.cs project setup
+
+> **Ep3: [Bootstrap Configuration in VS 2022](https://github.com/Jesc06/Local-Bootstrap-Set-up-in-Visual-Studio-2022.git)**  
 Style your app with Bootstrap without using a CDN. Local setup made easy. *Let’s get classy!*
 
-> **Ep3: [.gitignore Implementation on Clean Architecture](https://github.com/Jesc06/git-push-Clean-Architecture-method.git)**  
+> **Ep4: [.gitignore Implementation on Clean Architecture](https://github.com/Jesc06/git-push-Clean-Architecture-method.git)**  
 Learn the importance of `.gitignore` files in real-world projects. *Push what matters.*
 
 ---
@@ -22,7 +25,7 @@ Learn the importance of `.gitignore` files in real-world projects. *Push what ma
 ## 🌎 Web API Documentation
 
 > **Ep1: [Return Keywords in ASP.NET Core Web API](https://github.com/Jesc06/Web-Api-Return-keywords.git)**  
-Set up full login/logout and authentication using ASP.NET Core Identity. *Your app, now secure.*
+Http return keywords in Asp.Net Core Web API
 ---
 
 
