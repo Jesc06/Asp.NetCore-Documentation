@@ -18,54 +18,62 @@ Learn the importance of `.gitignore` files in real-world projects. *Push what ma
 
 ---
 
+
+## 🌎 Web API Documentation
+
+> **Ep1: [Return Keywords in ASP.NET Core Web API](https://github.com/Jesc06/Web-Api-Return-keywords.git)**  
+Set up full login/logout and authentication using ASP.NET Core Identity. *Your app, now secure.*
+---
+
+
 ## 🔐 Identity, Authentication & Roles
 
-> **Ep4: [Authentication using Asp Identity](https://github.com/Jesc06/Asp.Net-Core-Authentication.git)**  
+> **Ep1: [Authentication using Asp Identity](https://github.com/Jesc06/Asp.Net-Core-Authentication.git)**  
 Set up full login/logout and authentication using ASP.NET Core Identity. *Your app, now secure.*
 
-> **Ep5: [Role-Based Authorization](https://github.com/Jesc06/Role-Based-Asp-Identity.git)**  
+> **Ep2: [Role-Based Authorization](https://github.com/Jesc06/Role-Based-Asp-Identity.git)**  
 Implement role-specific features like Admin, User, etc. *Because not all users are equal.*
 
 ---
 
 ## 🧠 Clean Architecture & Data Access
 
-> **Ep6: [Clean Architecture CRUD](https://github.com/Jesc06/Clean-Architecture-CRUD.git)**  
+> **Ep1: [Clean Architecture CRUD](https://github.com/Jesc06/Clean-Architecture-CRUD.git)**  
 Explore Clean Architecture principles through a working CRUD project. *Code structure matters.*
 
-> **Ep7: [User Data Access](https://github.com/Jesc06/User-Data-Access.git)**  
+> **Ep2: [User Data Access](https://github.com/Jesc06/User-Data-Access.git)**  
 Learn how to access and manage user data cleanly. *Handle with care.*
 
-> **Ep8: [Entity Framework Core Configuration](https://github.com/Jesc06/Documentation-Ef-Core.git)**  
+> **Ep3: [Entity Framework Core Configuration](https://github.com/Jesc06/Documentation-Ef-Core.git)**  
 Master the configurations, relationships, and best practices in EF Core. *Database done right.*
 
-> **Ep9: [Two Data or more Model Binding](https://github.com/Jesc06/Clean-Architecture-Two-Data-Model-Binding.git)**  
+> **Ep4: [Two Data or more Model Binding](https://github.com/Jesc06/Clean-Architecture-Two-Data-Model-Binding.git)**  
 Bind multiple models in a single form the right way. *Dynamic data handling.*
 
-> **Ep10: [AutoMapper Setup](https://github.com/Jesc06/autoMapper.git)**  
+> **Ep5: [AutoMapper Setup](https://github.com/Jesc06/autoMapper.git)**  
 Simplify mapping between models and DTOs. *From complex to clean.*
 
 ---
 
 ## ⚙️ UI Navigation & CRUD Variants
 
-> **Ep11: [Active Focus Navigation](https://github.com/Jesc06/Navigation-Active.git)**  
+> **Ep1: [Active Focus Navigation](https://github.com/Jesc06/Navigation-Active.git)**  
 Highlight the current active page for better UX. *Users won't get lost.*
 
-> **Ep12: [One Page CRUD](https://github.com/Jesc06/Single-Page-Crud.git)**  
+> **Ep2: [One Page CRUD](https://github.com/Jesc06/Single-Page-Crud.git)**  
 Perform all CRUD operations on a single page with smooth UX. *Speed and simplicity.*
 
-> **Ep13: [Multiple Page CRUD](https://github.com/Jesc06/Multipage-CRUD.git)**  
+> **Ep3: [Multiple Page CRUD](https://github.com/Jesc06/Multipage-CRUD.git)**  
 Break down your CRUD operations into multiple pages. *Organized and modular.*
 
 ---
 
 ## 🛠️ Deployment & Utilities
 
-> **Ep14: [SQL Server Connection String](https://github.com/Jesc06/SQL-SERVER-Connection-String.git)**  
+> **Ep1: [SQL Server Connection String](https://github.com/Jesc06/SQL-SERVER-Connection-String.git)**  
 Set up and manage your connection strings like a pro. *Talk to your DB.*
 
-> **Ep15: [Push Code to GitHub using Git](https://github.com/Jesc06/Push-to-Repository-Documentation.git)**  
+> **Ep2: [Push Code to GitHub using Git](https://github.com/Jesc06/Push-to-Repository-Documentation.git)**  
 Don’t just code — **version control** it! Learn to push your work using Git commands. *Track your evolution.*
 
 ---
