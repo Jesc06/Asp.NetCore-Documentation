@@ -35,6 +35,9 @@ Http return keywords in Asp.Net Core Web API
 > **Ep3: [Global ErrorHandler Middleware](https://github.com/Jesc06/GlobalErrorHandlingMiddleware.git)**  
 Custom middlewate error handler in Web API
 
+> **Ep4: [Result Wrapper Pattern](https://github.com/Jesc06/ResultWrapperPattern.git)**  
+Implements a Result<T> wrapper to encapsulate success/failure outcomes.
+
 ---
 
 
