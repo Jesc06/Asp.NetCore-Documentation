@@ -30,6 +30,11 @@ Http return keywords in Asp.Net Core Web API
 
 > **Ep2: [201 CreatedAtAction Return Keyword](https://github.com/Jesc06/RESTful-201-Web-API.git)**  
 201 CreatedAtAction Return keyword setup documentation
+
+
+> **Ep3: [Global ErrorHandler Middleware](https://github.com/Jesc06/GlobalErrorHandlingMiddleware.git)**  
+Custom middlewate error handler in Web API
+
 ---
 
 
