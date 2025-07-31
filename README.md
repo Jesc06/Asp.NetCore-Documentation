@@ -22,14 +22,14 @@ Learn the importance of `.gitignore` files in real-world projects. *Push what ma
 ---
 
 
-## 🌎 Web API Documentation
+## 🌎 RESTful Web API Documentation
 
 > **Ep1: [Return Keywords in ASP.NET Core Web API](https://github.com/Jesc06/Web-Api-Return-keywords.git)**  
 Http return keywords in Asp.Net Core Web API
 
 
-> > **Ep2: [201 CreatedAtAction return Keyword](https://github.com/Jesc06/RESTful-201-Web-API.git)**  
-201 CreadtedAtAction return keyword setup configuration documentation
+> **Ep2: [201 CreatedAtAction Return Keyword](https://github.com/Jesc06/RESTful-201-Web-API.git)**  
+201 CreatedAtAction Return keyword setup documentation
 ---
 
 
