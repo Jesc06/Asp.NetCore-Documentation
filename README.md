@@ -38,6 +38,9 @@ Custom middlewate error handler in Web API
 > **Ep4: [Result Wrapper Pattern](https://github.com/Jesc06/ResultWrapperPattern.git)**  
 Implements a Result<T> wrapper to encapsulate success/failure outcomes.
 
+> **Ep5: [IdentityUser Error Handler](https://github.com/Jesc06/Error-Handler-in-IdentityUser.git)**  
+Asp.NetCore IdentityUser Error handling management.
+
 ---
 
 
