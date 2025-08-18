@@ -5,6 +5,13 @@ each one a step forward in mastering modern .NET development!
 
 ---
 
+## 📌 Others common configurations
+
+> **Ep1: [VsCode Blazor Server DotNet-BuildError-StaticAssetsCleanup](https://github.com/Jesc06/ASP.NET-Core-Empty-MVC-set-up.git)**  
+DotNet-BuildError-StaticAssetsCleanup to fix blazor cannot build project
+
+---
+
 ## 📌 Getting the Basics Right
 
 > **Ep1: [MVC Project Setup](https://github.com/Jesc06/ASP.NET-Core-Empty-MVC-set-up.git)**  
