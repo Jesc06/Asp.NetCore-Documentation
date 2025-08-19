@@ -53,6 +53,13 @@ JWT Auth configuration in Asp.NetCore Web Api
 
 ---
 
+## 🌎 Entity Framework Core
+
+> **Ep1: [Entity Framework Core Configuration](https://github.com/Jesc06/Documentation-Ef-Core.git)**  
+Master the configurations, relationships, and best practices in EF Core. *Database done right.*
+
+---
+
 
 ## 🔐 Identity, Authentication & Roles
 
@@ -71,9 +78,6 @@ Explore Clean Architecture principles through a working CRUD project. *Code stru
 
 > **Ep2: [User Data Access](https://github.com/Jesc06/User-Data-Access.git)**  
 Learn how to access and manage user data cleanly. *Handle with care.*
-
-> **Ep3: [Entity Framework Core Configuration](https://github.com/Jesc06/Documentation-Ef-Core.git)**  
-Master the configurations, relationships, and best practices in EF Core. *Database done right.*
 
 > **Ep4: [Two Data or more Model Binding](https://github.com/Jesc06/Clean-Architecture-Two-Data-Model-Binding.git)**  
 Bind multiple models in a single form the right way. *Dynamic data handling.*
