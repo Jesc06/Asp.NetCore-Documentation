@@ -48,7 +48,7 @@ Implements a Result<T> wrapper to encapsulate success/failure outcomes.
 > **Ep5: [IdentityUser Error Handler](https://github.com/Jesc06/Error-Handler-in-IdentityUser.git)**  
 Asp.NetCore IdentityUser Error handling management.
 
-> **Ep6: [JWT Auth in Asp.NetCore Web Api](https://github.com/Jesc06/Error-Handler-in-IdentityUser.git)**  
+> **Ep6: [JWT Auth in Asp.NetCore Web Api](https://github.com/Jesc06/JWT-in-Asp.NetCore-Web-API.git)**  
 JWT Auth configuration in Asp.NetCore Web Api
 
 ---
