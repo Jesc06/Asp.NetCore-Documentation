@@ -55,7 +55,7 @@ JWT Auth configuration in Asp.NetCore Web Api
 
 
 ## 🌎 Blazor Documentation
-> **Ep1: [Connect Web API to Blazor](https://github.com/Jesc06/Web-Api-Return-keywords.git)**  
+> **Ep1: [Connect Web API to Blazor](https://github.com/Jesc06/Connect-Web-API-to-Blazor.git)**  
 Configuration how to connect Web API to Blazor
 
 ---
