@@ -48,18 +48,20 @@ Implements a Result<T> wrapper to encapsulate success/failure outcomes.
 > **Ep5: [IdentityUser Error Handler](https://github.com/Jesc06/Error-Handler-in-IdentityUser.git)**  
 Asp.NetCore IdentityUser Error handling management.
 
-> **Ep6: [JWT Auth in Asp.NetCore Web Api](https://github.com/Jesc06/JWT-in-Asp.NetCore-Web-API.git)**  
-JWT Auth configuration in Asp.NetCore Web Api
-
 ---
 
+## 🌎 JWT Auth
+> **Ep1: [Web API JWT Configuration](https://github.com/Jesc06/JWT-in-Asp.NetCore-Web-API.git)**  
+JWT Auth configuration in Asp.NetCore Web Api
+
+> **Ep2: [JWT Auth in Blazor](https://github.com/Jesc06/JWT-Auth-in-Blazor.git)**  
+JWT Auth Configuration in Blazor ClientSide
+
+---
 
 ## 🌎 Blazor Documentation
 > **Ep1: [Connect Web API to Blazor](https://github.com/Jesc06/Connect-Web-API-to-Blazor.git)**  
 Configuration how to connect Web API to Blazor
-
-> **Ep2: [JWT Auth in Blazor](https://github.com/Jesc06/JWT-Auth-in-Blazor.git)**  
-JWT Auth Configuration in Blazor
 
 ---
 ## 🌎 Entity Framework Core
