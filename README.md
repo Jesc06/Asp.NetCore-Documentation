@@ -50,11 +50,11 @@ Asp.NetCore IdentityUser Error handling management.
 
 ---
 
-## 🌎 JWT Auth
+## 🔐 JWT Auth
 > **Ep1: [Web API JWT Configuration](https://github.com/Jesc06/JWT-in-Asp.NetCore-Web-API.git)**  
 JWT Auth configuration in Asp.NetCore Web Api
 
-> **Ep2: [JWT Auth in Blazor](https://github.com/Jesc06/JWT-Auth-in-Blazor.git)**  
+> **Ep2: [JWT Auth in Blazor ClientSide](https://github.com/Jesc06/JWT-Auth-in-Blazor.git)**  
 JWT Auth Configuration in Blazor ClientSide
 
 ---
