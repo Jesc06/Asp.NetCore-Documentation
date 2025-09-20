@@ -48,7 +48,7 @@ Implements a Result<T> wrapper to encapsulate success/failure outcomes.
 > **Ep5: [IdentityUser Error Handler](https://github.com/Jesc06/Error-Handler-in-IdentityUser.git)**  
 Asp.NetCore IdentityUser Error handling management.
 
-> **Ep6: [Email Service Smtp](https://github.com/Jesc06/Error-Handler-in-IdentityUser.git)**  
+> **Ep6: [Email Service Smtp](https://github.com/Jesc06/Email-Service-Asp.NetCore-Web-API.git)**  
 Asp.NetCore Email Service using Smtp and clean architecture implementation
 
 ---
