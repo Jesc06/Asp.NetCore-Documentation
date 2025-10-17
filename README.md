@@ -30,7 +30,7 @@ Learn the importance of `.gitignore` files in real-world projects. *Push what ma
 
 ## 📌 External API
 
-> **Ep1: [Email SMS integration](https://github.com/Jesc06/ASP.NET-Core-Empty-MVC-set-up.git)**  
+> **Ep1: [Email SMS integration](https://github.com/Jesc06/Email-Service-Asp.NetCore-Web-API.git)**  
 Email SMS integration*
 ---
 
