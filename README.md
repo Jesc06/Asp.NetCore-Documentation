@@ -130,7 +130,7 @@ Set up and manage your connection strings like a pro. *Talk to your DB.*
 Don’t just code — **version control** it! Learn to push your work using Git commands. *Track your evolution.*
 
 > **Ep3: [Github SSH](https://github.com/Jesc06/github-ssh-setup.git)**  
-GitHub SSH Setup, Branching, and Backdated Commits*
+GitHub SSH Setup, Branching, and Backdated Commits
 
 ---
 
