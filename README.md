@@ -129,6 +129,9 @@ Set up and manage your connection strings like a pro. *Talk to your DB.*
 > **Ep2: [Push Code to GitHub using Git](https://github.com/Jesc06/Push-to-Repository-Documentation.git)**  
 Don’t just code — **version control** it! Learn to push your work using Git commands. *Track your evolution.*
 
+> **Ep3: [Github SSH](https://github.com/Jesc06/github-ssh-setup.git)**  
+GitHub SSH Setup, Branching, and Backdated Commits*
+
 ---
 
  
